@@ -13,6 +13,7 @@ Cumulus is in development, much work remains to be done.
 If you are a developer **help us** to evolve and enhance Cumulus, else you can always make a **donation** ([us]|[eu]) for that we spent more time on it, in fact it's not technical skills that hinder us but lack of time.
 
 Usage
+as
 ------------------------------------
 
 ### CumulusService
